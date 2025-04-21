@@ -1,0 +1,23 @@
+.form_title {
+    color: #F5C800;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    text-decoration: none;
+    font-style: italic;
+    text-align: left;
+    line-height: 33px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #F4F4F4;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+
+.container {
+    background: #F8F8F8;
+    border-radius: 8px;
+}
+

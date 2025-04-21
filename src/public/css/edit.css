@@ -1,0 +1,51 @@
+.edit-page {
+    padding: 2em;
+    background: #fff;
+}
+
+.edit-content {
+    display: flex;
+    gap: 2em;
+}
+
+.left .product-img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.right input,
+.right textarea {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5em;
+}
+
+.btn.save {
+    background: #ffc107;
+    color: white;
+    padding: 0.6em 1.5em;
+    border-radius: 4px;
+}
+
+.btn.delete {
+    background: none;
+    border: none;
+    margin-top: 1em;
+}
+
+.btn.delete img {
+    width: 32px;
+    height: 32px;
+}
+
+.error {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 4px;
+}
